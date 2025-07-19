@@ -18,7 +18,7 @@ To uncover actionable insights from sales data by:
 
 ## Dataset Summary
 - **Source**: [Online Retail Dataset - UCI / Kaggle](https://www.kaggle.com/datasets/viridianachow/online-retail-uci-dataset)
-- **Rows**: ~50,000
+- **Rows**: ~500,000
 - **Time Period**: Dec 2010 – Dec 2011
 - **Columns**: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
 
